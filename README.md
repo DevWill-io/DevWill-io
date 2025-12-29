@@ -1,11 +1,5 @@
-⚒️ Línguas e Ferramentas
-
-💻 Languages
-
-[![My Skills](https://skillicons.dev/icons?i=py,html)](https://skillicons.dev)
-
-🔧 Ferramentas e Extras
-
-[![My Skills](https://skillicons.dev/icons?i=azure,discord )](https://skillicons.dev)
-
-
+## ⚒️ Languages and tools
+### 💻 Languages
+[![Programming Languages](https://skillicons.dev/icons?i=html,py)](https://skillicons.dev)
+### 🔧 Tools and extras
+[![Tools and extras](https://skillicons.dev/icons?i=azure,github,discord)](https://skillicons.dev)
