@@ -5,5 +5,6 @@
 [![Tools and extras](https://skillicons.dev/icons?i=github,vscode)](https://skillicons.dev)
 
 
-![](https://github-readme-stats.vercel.app/api?username=DevWill-io&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=DevWill-io&theme=radical&hide_border=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiDevWill-io=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiDevWill-io=anuraghazra&show_icons=true)
