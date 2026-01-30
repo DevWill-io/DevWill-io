@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Williams.</h2>
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+👋;Welcome+to+my+profile!)
+
 ###
 
 <div align="center">
