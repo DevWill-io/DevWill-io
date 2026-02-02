@@ -16,7 +16,7 @@ Olá! Sou **Williams**, um desenvolvedor em constante evolução e entusiasta de
 
 **Linguagens & Front-end**
 <div align="left">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -27,19 +27,6 @@ Olá! Sou **Williams**, um desenvolvedor em constante evolução e entusiasta de
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</div>
-
----
-
-### 📊 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevWill-io&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="170em" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevWill-io&layout=compact&theme=dracula" height="170em" alt="Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevWill-io&theme=dracula" alt="Streak" />
 </div>
 
 ---
