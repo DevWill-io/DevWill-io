@@ -38,6 +38,5 @@ Olá! Sou **Williams**, um desenvolvedor em constante evolução e entusiasta de
   <i>"A única maneira de fazer um excelente trabalho é amar o que você faz."</i>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/Assets/Animal.gif" width="150">
-</p>
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
