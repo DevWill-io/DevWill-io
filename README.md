@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I+am+DevWill-io!" alt="Typing SVG" />
 </div>
 
-### 🚀 Sobre Mim
+### 🚀 About Me
 
 Olá! Sou **Williams**, um desenvolvedor em constante evolução e entusiasta de tecnologia. Atualmente, sou aluno do **IFRN**, onde foco meus estudos em compreender a base sólida da computação e do desenvolvimento de sistemas.
 
@@ -14,7 +14,6 @@ Olá! Sou **Williams**, um desenvolvedor em constante evolução e entusiasta de
 
 ### 🛠️ Toolbox (Tecnologias e Ferramentas)
 
-**Linguagens & Front-end**
 <div align="left">
   
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,vscode)](https://skillicons.dev)
