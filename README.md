@@ -1,24 +1,32 @@
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=70)
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I+am+DevWill-io!" alt="Typing SVG" />
 </div>
 
-### 🚀 About Me
+### 🚀 Sobre Mim
 
-Olá! Sou **Williams**, um desenvolvedor em constante evolução e entusiasta de tecnologia. Atualmente, sou aluno do **IFRN**, onde foco meus estudos em compreender a base sólida da computação e do desenvolvimento de sistemas.
+Olá! Sou **Williams**, um desenvolvedor em constante evolução e entusiasta de tecnologia. Atualmente, sou aluno do **IFRN (Instituto Federal do RN)**, onde foco meus estudos em compreender a base sólida da computação e do desenvolvimento de sistemas.
 
 * 🎓 **Estudante de TI:** Focado em dominar o ecossistema Web e Python.
-* 🐍 **Python Journey:** Atualmente explorando lógica avançada e automação. 
-* 🌐 **Web Dev:** Praticando a criação de interfaces responsivas e funcionais com HTML, CSS e JS.
+* 🐍 **Python Journey:** focado em estruturas de repetição e lógica.
+* 🌐 **Web Dev:** Praticando a criação de interfaces responsivas e funcionais com HTML5, CSS3 e JavaScript.
 
 ---
 
 ### 🛠️ Toolbox (Tecnologias e Ferramentas)
 
-<div align="left">
-  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,vscode)](https://skillicons.dev)
-  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,vscode,git,github,linux,windows&perline=8" alt="My Skills" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevWill-io&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevWill-io&layout=compact&langs_count=7&theme=dracula" alt="Top Languages" />
 </div>
 
 ---
@@ -35,8 +43,8 @@ Olá! Sou **Williams**, um desenvolvedor em constante evolução e entusiasta de
 </div>
 
 <p align="center">
+  <br>
   <i>"A única maneira de fazer um excelente trabalho é amar o que você faz."</i>
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" width="100%"/>
 </p>
-
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
-
