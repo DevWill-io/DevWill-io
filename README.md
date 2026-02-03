@@ -1,3 +1,4 @@
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=70)
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I+am+DevWill-io!" alt="Typing SVG" />
 </div>
@@ -35,4 +36,8 @@ Olá! Sou **Williams**, um desenvolvedor em constante evolução e entusiasta de
 
 <p align="center">
   <i>"A única maneira de fazer um excelente trabalho é amar o que você faz."</i>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/Assets/Animal.gif" width="150">
 </p>
