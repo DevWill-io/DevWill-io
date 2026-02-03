@@ -17,7 +17,7 @@ Olá! Sou **Williams**, um desenvolvedor em constante evolução e entusiasta de
 ### 🛠️ Toolbox (Tecnologias e Ferramentas)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,vscode,git,github,linux,windows&perline=8" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,vscode,git,github,linux,windows,android&perline=8" alt="My Skills" />
 </div>
 
 ---
