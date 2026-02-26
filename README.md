@@ -25,7 +25,7 @@ Olá! Sou **Williams**, um desenvolvedor em constante evolução e entusiasta de
 ### 📫 Vamos Conversar?
 
 <div align="center">
-  <a href="mailto:williamssilva2133kk@gmail.com">
+  <a href="mailto:williams.a@escolar.ifrn.edu.br">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://instagram.com/wil_lians0">
