@@ -14,6 +14,14 @@ Olá! Sou **Williams**, um desenvolvedor em constante evolução e entusiasta de
 
 ---
 
+### 📂 Meus Projetos em Destaque
+
+* **Portfólio da Turma 2V 2026**: Um portfólio feito em html, css e js (puro), para mostrar nossos projetos de Turma. <a href="https://infoweb2026-2v.netlify.app/" target="_blank">Clique aqui</a> Para ver o site.
+* **Nenhum projeto encontrado**: nenhum projeto encontrado
+* **Nenhum projeto encontrado**: nenhum projeto encontrado 
+
+---
+
 ### 🛠️ Toolbox (Tecnologias e Ferramentas)
 
 <div align="center">
