@@ -9,23 +9,32 @@
 Olá! Sou **Williams**, um desenvolvedor em constante evolução e entusiasta de tecnologia. Atualmente, sou aluno do **IFRN (Instituto Federal do RN)**, onde foco meus estudos em compreender a base sólida da computação e do desenvolvimento de sistemas.
 
 * 🎓 **Estudante de TI:** Focado em dominar o ecossistema Web e Python.
-* 🐍 **Python Journey:** focado em estruturas de repetição e lógica.
+* 🐍 **Python Journey:** Focado em estruturas de repetição e lógica.
 * 🌐 **Web Dev:** Praticando a criação de interfaces responsivas e funcionais com HTML5, CSS3 e JavaScript.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/DevWill-io">
+    <img src="https://github-readme-stats.vercel.app/api?username=DevWill-io&show_icons=true&theme=radical" alt="DevWill-io's GitHub stats" />
+  </a>
+</div>
 
 ---
 
 ### 📂 Meus Projetos em Destaque
 
-* **Portfólio da Turma 2V 2026**: Um portfólio feito em html, css e js (puro), para mostrar nossos projetos de Turma. <a href="https://infoweb2026-2v.netlify.app/" target="_blank">Clique aqui</a> Para ver o site.
-* **Nenhum projeto encontrado**: nenhum projeto encontrado
-* **Nenhum projeto encontrado**: nenhum projeto encontrado 
+* 💻 **Portfólio da Turma 2V 2026**: Um portfólio feito em HTML, CSS e JS (puro) para mostrar nossos projetos de turma. [Clique aqui para ver o site](https://infoweb2026-2v.netlify.app/).
+* 🚀 **Em breve**: Novos projetos sendo desenvolvidos!
 
 ---
 
 ### 🛠️ Toolbox (Tecnologias e Ferramentas)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,vscode,git,github,linux,windows,android&perline=8" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,vscode,git,github,linux,windows,android&perline=10" alt="My Skills" />
 </div>
 
 ---
