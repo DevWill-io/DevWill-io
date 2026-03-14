@@ -17,8 +17,12 @@ Olá! Sou **Williams**, um desenvolvedor em constante evolução e entusiasta de
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/DevWill-io?theme=dark">
+    <img alt="Most Used Languages" src="https://github-used-languages.vercel.app/DevWill-io" width="48%">
+  </picture>
   <a href="https://github.com/DevWill-io">
-    <img src="https://github-readme-stats.vercel.app/api?username=DevWill-io&show_icons=true&theme=radical" alt="DevWill-io's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=DevWill-io&show_icons=true&theme=radical" alt="DevWill-io's GitHub stats" width="48%" />
   </a>
 </div>
 
@@ -34,7 +38,7 @@ Olá! Sou **Williams**, um desenvolvedor em constante evolução e entusiasta de
 ### 🛠️ Toolbox (Tecnologias e Ferramentas)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,vscode,git,github,linux,windows,android,notion&perline=10" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,vscode,git,github,linux,windows,android&perline=10" alt="My Skills" />
 </div>
 
 ---
