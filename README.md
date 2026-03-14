@@ -18,9 +18,10 @@ Olá! Sou **Williams**, um desenvolvedor em constante evolução e entusiasta de
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/DevWill-io?theme=dark">
-    <img alt="Most Used Languages" src="https://github-used-languages.vercel.app/DevWill-io" width="48%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/DevWill-io?theme=dark&title_color=E0E0E0&text_color=CCCCCC&bg_color=20202a&hide=html">
+    <img alt="Most Used Languages" src="https://github-used-languages.vercel.app/DevWill-io?title_color=828282&text_color=888888&bg_color=fefeff&hide=html" width="48%">
   </picture>
+  
   <a href="https://github.com/DevWill-io">
     <img src="https://github-readme-stats.vercel.app/api?username=DevWill-io&show_icons=true&theme=radical" alt="DevWill-io's GitHub stats" width="48%" />
   </a>
