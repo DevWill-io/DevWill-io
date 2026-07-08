@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I+am+DevWill-io!" alt="Typing SVG" />
   <br>
-  <i>Desenvolvedor em formação | Entusiasta de Tecnologia | Estudante de TI no IFRN</i>
+  <i>Desenvolvedor em formação | Entusiasta de Tecnologia & Game Dev | Estudante de TI no IFRN</i>
 </div>
 
 ---
@@ -12,10 +12,11 @@
 
 Olá! Sou o **Williams**, um desenvolvedor em constante evolução com uma paixão enorme por resolver problemas através do código. Atualmente, dedico meus estudos a compreender a base sólida da computação e do desenvolvimento de sistemas no **Instituto Federal do Rio Grande do Norte (IFRN)**.
 
-* 🎓 **Formação:** Estudante de TI, com foco em dominar o ecossistema Web e a linguagem Python.
+* 🎓 **Formação:** Estudante de TI, com foco em dominar o ecossistema Web, Python e desenvolvimento de software.
+* 🎮 **Game Dev:** Explorando a criação de jogos e experiências interativas utilizando **C#**, **Unity** e **Pygame**.
 * 🐍 **Python Journey:** Aprofundando conhecimentos em lógica de programação, estruturas de dados e automação.
 * 🌐 **Web Dev:** Construindo interfaces responsivas, semânticas e dinâmicas utilizando **HTML5, CSS3 e JavaScript**.
-* 💡 **Objetivo:** Tornar-me um desenvolvedor Full Stack capaz de criar soluções impactantes.
+* 💡 **Objetivo:** Tornar-me um desenvolvedor versátil, capaz de criar soluções impactantes tanto para a Web quanto no entretenimento digital.
 
 ---
 
@@ -23,7 +24,7 @@ Olá! Sou o **Williams**, um desenvolvedor em constante evolução com uma paix�
 
 <div align="center">
   <br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,vscode,git,github,linux,windows,android,notion,csharp,pygame&perline=10" alt="Minhas Habilidades" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,csharp,unity,pygame,vscode,git,github,linux,windows,android,notion&perline=7" alt="Minhas Habilidades" />
   <br>
 </div>
 
@@ -58,7 +59,7 @@ Olá! Sou o **Williams**, um desenvolvedor em constante evolução com uma paix�
   </tr>
 </table>
 
-> 🚀 **Em breve:** Novos projetos focados em Python e aplicações Web dinâmicas sendo desenvolvidos!
+> 🚀 **Em breve:** Novos projetos focados em aplicações Web dinâmicas e **desenvolvimento de jogos**!
 
 ---
 
@@ -73,11 +74,7 @@ Se quiser bater um papo sobre tecnologia, projetos ou trocar conhecimentos, sint
   <a href="https://instagram.com/wil_lians0" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <!-- Adicione o seu LinkedIn abaixo caso já tenha um! -->
-  <!-- <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a> -->
-</div>
+  </div>
 
 <br>
 
