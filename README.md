@@ -45,7 +45,7 @@ Olá! Sou o **Williams**, um desenvolvedor em constante evolução com uma paix�
 <table border="1" bordercolor="#30363d" style="border-collapse: collapse; width: 100%;">
   <tr>
     <td width="40%" align="center">
-      <img src="imgs/Site2v.jpg" alt="Preview do Site" width="100%" style="max-width: 300px; border-radius: 8px;">
+      <img src="imgss/Site2v.jpg" alt="Preview do Site" width="100%" style="max-width: 300px; border-radius: 8px;">
     </td>
     <td width="60%">
       <h3>💻 Portfólio da Turma 2V 2026</h3>
