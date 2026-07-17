@@ -28,15 +28,7 @@ Olá! Sou o **Williams**, um desenvolvedor em constante evolução com uma paix�
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <a href="https://github.com/DevWill-io">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevWill-io&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  </a>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/DevWill-io?theme=dark&title_color=E0E0E0&text_color=CCCCCC&bg_color=20202a&hide=html">
-    <img height="180em" alt="Linguagens Mais Usadas" src="https://github-used-languages.vercel.app/DevWill-io?title_color=828282&text_color=888888&bg_color=fefeff&hide=html">
-  </picture>
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=DevWill-io&hide_title=true&langs_count=6&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=DevWill-io&hide_title=true&langs_count=6&theme=dark)
 
 ---
 
