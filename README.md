@@ -22,7 +22,7 @@ Olá! Sou o **Williams**, um desenvolvedor em constante evolução com uma paix�
 
 ### 🛠️ Toolbox (Tecnologias e Ferramentas)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,py,unity,notion,vscode,visualstudio,dotnet,git,github,windows,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,py,unity,notion,vscode,visualstudio,dotnet,git,github,windows,linux,godot,react)](https://skillicons.dev)
 
 ---
 
