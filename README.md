@@ -42,7 +42,7 @@ Olá! Sou o **Williams**, um desenvolvedor em constante evolução com uma paix�
     <td width="60%">
       <h3>💻 Portfólio da Turma 2V 2026</h3>
       <p>Desenvolvimento de um portfólio colaborativo feito inteiramente em <b>HTML, CSS e JavaScript (Vanilla)</b>. O projeto tem como objetivo exibir os trabalhos desenvolvidos pela nossa turma ao longo do curso.</p>
-      <a href="https://infoweb2026-2v.netlify.app/"><b>🔗 Acessar o Projeto Online</b></a>
+      <a href="https://infoweb-2v.vercel.app/"><b>🔗 Acessar o Projeto Online</b></a>
     </td>
   </tr>
 </table>
